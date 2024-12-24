@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/aestheticscoder](https://github.com/aestheticscoder)
 - 💬 Ask me about **health, wealth, and tech stacks**
 - 📫 How to reach me: **believe0256@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/11NYazfRrEmcx9aYzuwvGjFze5iY_8BwT?usp=drive_link)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1SSUyUfNnYit8WdqvnbyCNnbQIDG6_FCk/view?usp=sharing)
 - ⚡ Fun fact: **Octopuses have three hearts**
 
 <h3 align="left">Connect with me:</h3>
