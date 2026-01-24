@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A passionate software developer from New Delhi, India</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://x/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working at **Samcom Technologies**
 - 🌱 I’m currently learning **Vue.js** and **Nuxt.js** along with other frameworks
