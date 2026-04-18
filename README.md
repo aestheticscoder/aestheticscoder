@@ -76,7 +76,9 @@ Guru Gobind Singh Educational Society's Technical Campus
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Programs
+- McKinsey Forward Program — McKinsey & Company  
+  _Focused on problem solving, structured thinking, and business communication_
 - Business English Communication — NPTEL  
 - E-Business — NPTEL  
 
