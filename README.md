@@ -12,7 +12,7 @@
 ---
 
 ## 🧠 About Me
-GenAI Lead and Full-Stack Engineer with 5+ years of experience building scalable software products and AI/LLM-powered applications.
+GenAI Lead and Full-Stack Engineer with 6+ years of experience building scalable software products and AI/LLM-powered applications.
 
 Currently focused on **enterprise Generative AI at Infosys**: RAG-based applications, agentic workflows, intelligent automation and AI-assisted decision support. I build practical AI systems that combine **LLMs + Retrieval + Tools + Structured Workflows** to solve enterprise problems, backed by strong full-stack foundations and technical leadership.
 
